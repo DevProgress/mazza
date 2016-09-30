@@ -4,7 +4,7 @@
     "patternCount": 1,
     "title": 1999,
     "stateName": "Washington",
-    "stateCode": "WA",
+    "stateCode": "wa",
     "artworkCount": 1
   },
   "DE": {
@@ -12,7 +12,7 @@
     "patternCount": 1,
     "title": 1918,
     "stateName": "Delaware",
-    "stateCode": "DE",
+    "stateCode": "de",
     "artworkCount": 1
   },
   "WI": {
@@ -20,7 +20,7 @@
     "patternCount": 1,
     "title": 1921,
     "stateName": "Wisconsin",
-    "stateCode": "WI",
+    "stateCode": "wi",
     "artworkCount": 1
   },
   "WV": {
@@ -28,7 +28,7 @@
     "patternCount": 1,
     "title": "1913",
     "stateName": "West Virginia",
-    "stateCode": "WV",
+    "stateCode": "wv",
     "artworkCount": 1
   },
   "AK": {
@@ -36,7 +36,7 @@
     "patternCount": 1,
     "title": "1997",
     "stateName": "Alaska",
-    "stateCode": "AK",
+    "stateCode": "ak",
     "artworkCount": 1
   },
   "HI": {
@@ -44,7 +44,7 @@
     "patternCount": 1,
     "title": "1947",
     "stateName": "Hawaii",
-    "stateCode": "HI",
+    "stateCode": "hi",
     "artworkCount": 1
   },
   "FL": {
@@ -52,7 +52,7 @@
     "patternCount": 1,
     "title": 1937,
     "stateName": "Florida",
-    "stateCode": "FL",
+    "stateCode": "fl",
     "artworkCount": 1
   },
   "WY": {
@@ -60,7 +60,7 @@
     "patternCount": 1,
     "title": 1925,
     "stateName": "Wyoming",
-    "stateCode": "WY",
+    "stateCode": "wy",
     "artworkCount": 1
   },
   "NH": {
@@ -68,7 +68,7 @@
     "patternCount": 1,
     "title": 1847,
     "stateName": "New Hampshire",
-    "stateCode": "NH",
+    "stateCode": "nh",
     "artworkCount": 1
   },
   "NJ": {
@@ -76,7 +76,7 @@
     "patternCount": 1,
     "title": "Paterson Silk Strike.",
     "stateName": "New Jersey",
-    "stateCode": "NJ",
+    "stateCode": "nj",
     "artworkCount": 1
   },
   "NM": {
@@ -84,7 +84,7 @@
     "patternCount": 1,
     "title": "Salt of the Earth film based on Strike 1951.",
     "stateName": "New Mexico",
-    "stateCode": "NM",
+    "stateCode": "nm",
     "artworkCount": 1
   },
   "TX": {
@@ -92,7 +92,7 @@
     "patternCount": 0,
     "title": 1939,
     "stateName": "Texas",
-    "stateCode": "TX",
+    "stateCode": "tx",
     "artworkCount": 0
   },
   "LA": {
@@ -100,7 +100,7 @@
     "patternCount": 1,
     "title": 1887,
     "stateName": "Louisiana",
-    "stateCode": "LA",
+    "stateCode": "la",
     "artworkCount": 1
   },
   "NC": {
@@ -108,7 +108,7 @@
     "patternCount": 1,
     "title": 1929,
     "stateName": "North Carolina",
-    "stateCode": "NC",
+    "stateCode": "nc",
     "artworkCount": 1
   },
   "ND": {
@@ -116,7 +116,7 @@
     "patternCount": 1,
     "title": 1965,
     "stateName": "North Dakota",
-    "stateCode": "ND",
+    "stateCode": "nd",
     "artworkCount": 1
   },
   "NE": {
@@ -124,7 +124,7 @@
     "patternCount": 1,
     "title": 1921,
     "stateName": "Nebraska",
-    "stateCode": "NE",
+    "stateCode": "ne",
     "artworkCount": 1
   },
   "TN": {
@@ -132,7 +132,7 @@
     "patternCount": 1,
     "title": 1929,
     "stateName": "Tennessee",
-    "stateCode": "TN",
+    "stateCode": "tn",
     "artworkCount": 1
   },
   "NY": {
@@ -140,7 +140,7 @@
     "patternCount": 1,
     "title": 1903,
     "stateName": "New York",
-    "stateCode": "NY",
+    "stateCode": "ny",
     "artworkCount": 1
   },
   "PA": {
@@ -148,7 +148,7 @@
     "patternCount": 1,
     "title": 1845,
     "stateName": "Pennsylvania",
-    "stateCode": "PA",
+    "stateCode": "pa",
     "artworkCount": 1
   },
   "CT": {
@@ -156,7 +156,7 @@
     "patternCount": 1,
     "title": "1944",
     "stateName": "Connecticut",
-    "stateCode": "CT",
+    "stateCode": "ct",
     "artworkCount": 1
   },
   "NV": {
@@ -164,7 +164,7 @@
     "patternCount": 1,
     "title": 1935,
     "stateName": "Nevada",
-    "stateCode": "NV",
+    "stateCode": "nv",
     "artworkCount": 1
   },
   "VA": {
@@ -172,7 +172,7 @@
     "patternCount": 1,
     "title": 1920,
     "stateName": "Virginia",
-    "stateCode": "VA",
+    "stateCode": "va",
     "artworkCount": 1
   },
   "CO": {
@@ -180,7 +180,7 @@
     "patternCount": 1,
     "title": 1913,
     "stateName": "Colorado",
-    "stateCode": "CO",
+    "stateCode": "co",
     "artworkCount": 1
   },
   "CA": {
@@ -188,7 +188,7 @@
     "patternCount": 2,
     "title": 1965,
     "stateName": "California",
-    "stateCode": "CA",
+    "stateCode": "ca",
     "artworkCount": 2
   },
   "AL": {
@@ -196,7 +196,7 @@
     "patternCount": 1,
     "title": 1934,
     "stateName": "Alabama",
-    "stateCode": "AL",
+    "stateCode": "al",
     "artworkCount": 1
   },
   "AR": {
@@ -204,7 +204,7 @@
     "patternCount": 1,
     "title": 1967,
     "stateName": "Arkansas",
-    "stateCode": "AR",
+    "stateCode": "ar",
     "artworkCount": 1
   },
   "VT": {
@@ -212,7 +212,7 @@
     "patternCount": 1,
     "title": 1910,
     "stateName": "Vermont",
-    "stateCode": "VT",
+    "stateCode": "vt",
     "artworkCount": 1
   },
   "IL": {
@@ -220,7 +220,7 @@
     "patternCount": 0,
     "title": "1963, 1973",
     "stateName": "Illinois",
-    "stateCode": "IL",
+    "stateCode": "il",
     "artworkCount": 0
   },
   "GA": {
@@ -228,7 +228,7 @@
     "patternCount": 1,
     "title": 1884,
     "stateName": "Georgia",
-    "stateCode": "GA",
+    "stateCode": "ga",
     "artworkCount": 1
   },
   "IN": {
@@ -236,7 +236,7 @@
     "patternCount": 1,
     "title": 1882,
     "stateName": "Indiana",
-    "stateCode": "IN",
+    "stateCode": "in",
     "artworkCount": 1
   },
   "IA": {
@@ -244,7 +244,7 @@
     "patternCount": 1,
     "title": 1988,
     "stateName": "Iowa",
-    "stateCode": "IA",
+    "stateCode": "ia",
     "artworkCount": 2
   },
   "MA": {
@@ -252,7 +252,7 @@
     "patternCount": 1,
     "title": 1844,
     "stateName": "Massachusetts",
-    "stateCode": "MA",
+    "stateCode": "ma",
     "artworkCount": 1
   },
   "AZ": {
@@ -260,7 +260,7 @@
     "patternCount": 0,
     "title": 1983,
     "stateName": "Arizona",
-    "stateCode": "AZ",
+    "stateCode": "az",
     "artworkCount": 0
   },
   "ID": {
@@ -268,7 +268,7 @@
     "patternCount": 1,
     "title": 1975,
     "stateName": "Idaho",
-    "stateCode": "ID",
+    "stateCode": "id",
     "artworkCount": 1
   },
   "ME": {
@@ -276,7 +276,7 @@
     "patternCount": 1,
     "title": 1869,
     "stateName": "Maine",
-    "stateCode": "ME",
+    "stateCode": "me",
     "artworkCount": 0
   },
   "MD": {
@@ -284,7 +284,7 @@
     "patternCount": 1,
     "title": 1993,
     "stateName": "Maryland",
-    "stateCode": "MD",
+    "stateCode": "md",
     "artworkCount": 1
   },
   "OK": {
@@ -292,7 +292,7 @@
     "patternCount": 1,
     "title": 1918,
     "stateName": "Oklahoma",
-    "stateCode": "OK",
+    "stateCode": "ok",
     "artworkCount": 1
   },
   "OH": {
@@ -300,7 +300,7 @@
     "patternCount": 1,
     "title": 1851,
     "stateName": "Ohio",
-    "stateCode": "OH",
+    "stateCode": "oh",
     "artworkCount": 1
   },
   "UT": {
@@ -308,7 +308,7 @@
     "patternCount": 1,
     "title": "Chocolate Dippers Strike, 1910",
     "stateName": "Utah",
-    "stateCode": "UT",
+    "stateCode": "ut",
     "artworkCount": 1
   },
   "MO": {
@@ -316,7 +316,7 @@
     "patternCount": 1,
     "title": 1902,
     "stateName": "Missouri",
-    "stateCode": "MO",
+    "stateCode": "mo",
     "artworkCount": 1
   },
   "MN": {
@@ -324,7 +324,7 @@
     "patternCount": 1,
     "title": 1860,
     "stateName": "Minnesota",
-    "stateCode": "MN",
+    "stateCode": "mn",
     "artworkCount": 1
   },
   "MI": {
@@ -332,7 +332,7 @@
     "patternCount": 1,
     "title": 1937,
     "stateName": "Michigan",
-    "stateCode": "MI",
+    "stateCode": "mi",
     "artworkCount": 1
   },
   "RI": {
@@ -340,7 +340,7 @@
     "patternCount": 1,
     "title": "Slater Mill Strike.",
     "stateName": "Rhode Island",
-    "stateCode": "RI",
+    "stateCode": "ri",
     "artworkCount": 1
   },
   "KS": {
@@ -348,7 +348,7 @@
     "patternCount": 1,
     "title": 1890,
     "stateName": "Kansas",
-    "stateCode": "KS",
+    "stateCode": "ks",
     "artworkCount": 1
   },
   "MT": {
@@ -356,7 +356,7 @@
     "patternCount": 1,
     "title": 1955,
     "stateName": "Montana",
-    "stateCode": "MT",
+    "stateCode": "mt",
     "artworkCount": 1
   },
   "MS": {
@@ -364,7 +364,7 @@
     "patternCount": 1,
     "title": 1866,
     "stateName": "Mississippi",
-    "stateCode": "MS",
+    "stateCode": "ms",
     "artworkCount": 1
   },
   "SC": {
@@ -372,7 +372,7 @@
     "patternCount": 1,
     "title": 1969,
     "stateName": "South Carolina",
-    "stateCode": "SC",
+    "stateCode": "sc",
     "artworkCount": 1
   },
   "KY": {
@@ -380,7 +380,7 @@
     "patternCount": 1,
     "title": 1931,
     "stateName": "Kentucky",
-    "stateCode": "KY",
+    "stateCode": "ky",
     "artworkCount": 1
   },
   "OR": {
@@ -388,7 +388,7 @@
     "patternCount": 1,
     "title": 1912,
     "stateName": "Oregon",
-    "stateCode": "OR",
+    "stateCode": "or",
     "artworkCount": 1
   },
   "SD": {
@@ -396,7 +396,7 @@
     "patternCount": 1,
     "title": 1938,
     "stateName": "South Dakota",
-    "stateCode": "SD",
+    "stateCode": "sd",
     "artworkCount": 1
   }
 }
